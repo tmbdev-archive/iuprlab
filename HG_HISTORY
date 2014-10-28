@@ -1,0 +1,27 @@
+The history couldn't be converted, but it's pretty simple.
+
+changeset:   2:3efce9b3e4c0
+tag:         tip
+user:        <tmbdev>
+date:        Sat Oct 25 11:36:57 2014 -0700
+files:       accel.pyc kmeans.pyc test_quantizer.pyc tpquant.py.~1~
+description:
+cleanup
+
+
+changeset:   1:0d148f87ab59
+user:        <tmbdev>
+date:        Sat Oct 25 11:34:58 2014 -0700
+files:       mlp.py old/pyaccel.c old/pyaccel.f95 old/pyaccel.pyf pyaccel.c pyaccel.f95 pyaccel.pyf
+description:
+cleanup
+
+
+changeset:   0:ec71d8ba8036
+user:        tmb@ixion
+date:        Mon Oct 12 01:15:09 2009 +0200
+files:       Makefile __init__.py accel.py accel.pyc accel_c.c boostedmlp.py boostedstumps.py command.py dataio.py fastica.py fmixtures.py gng.py heap.py imageutil.py kmeans.py kmeans.pyc mixtures.py mlp.py ocrutil.py pca.py pyaccel.c pyaccel.f95 pyaccel.pyf show_ocrdir.py som.py test_all.py test_classifier.py test_density.py test_quantizer.py test_quantizer.pyc test_transformer.py tpquant.py tpquant.py.~1~ unionfind.py
+description:
+initial mercurial version
+
+
